@@ -1,5 +1,7 @@
 # vue-learning-app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tsukhu/vue-learning-app.svg)](https://greenkeeper.io/)
+
 Vue Crash Course Learning Lessons
 
 * Step 1 : Completed the Udemy [Vue 2 Crash course](https://www.udemy.com/vue-2-crash-course/learn/v4/overview)
